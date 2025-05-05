@@ -1,7 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFD2&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+Mundo!;Hello%2C+World!)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github.com/johann0301/johann0301/blob/main/foto-perfil-github.jpg?raw=true" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; border: 2px solid #00FFD2; margin: 20px 0;" />
+  <img src="https://github.com/johann0301/johann0301/blob/main/foto-perfil-github.jpg?raw=true" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; border: 2px solid #00FFD2; margin: 20px 0; object-fit: cover; object-position: center;" />
+
   
   <h2 style="color: #00FFD2;">João Silva</h2>
   <p>🎓 Estudante de Engenharia de Software | 💼 Desenvolvedor Front-end</p>

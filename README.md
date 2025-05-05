@@ -1,12 +1,19 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFD2&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+Mundo!;Hello%2C+World!)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github.com/johann0301/johann0301/blob/main/foto-perfil-github.jpg?raw=true" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; border: 2px solid #00FFD2; margin: 20px 0; object-fit: cover; object-position: center;" />
+  <img 
+    src="https://github.com/johann0301/johann0301/blob/main/foto-perfil-github.jpg?raw=true" 
+    alt="Foto de Perfil" 
+    width="200" 
+    height="200" 
+    style="border-radius: 50%; object-fit: cover; object-position: center; border: 2px solid #00FFD2; margin: 20px 0;" 
+  />
+</div>
 
   
-  <h2 style="color: #00FFD2;">João Silva</h2>
-  <p>🎓 Estudante de Engenharia de Software | 💼 Desenvolvedor Front-end</p>
-  <p>📍 São Paulo, Brasil | 🎂 25 anos</p>
+  <h2 style="color: #00FFD2;">Johann Bezerra</h2>
+  <p>🎓 Estudante de Ciências da Computação | 💼 Desenvolvedor Full-Stack</p>
+  <p>📍 João Pessoa, Brasil | 🎂 18 anos</p>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD2&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+Front-End;Entusiasta+de+Python;Sempre+aprendendo+coisas+novas!" alt="Typing SVG" />
   
@@ -18,9 +25,9 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "João Silva"
-        self.location = "São Paulo, Brasil"
-        self.education = "Engenharia de Software"
+        self.name = "Johann Bezerra"
+        self.location = "João Pessoa, Brasil"
+        self.education = "Ciências da Computação"
         self.experience = {
             "frontend": ["HTML", "CSS", "JavaScript"],
             "backend": ["Python", "Java"],
@@ -76,15 +83,6 @@ me = Developer()
   ![Tools](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SeuUsuarioGitHub&theme=github-dark&hide_border=true&stroke=00FFD2&ring=00FFD2&fire=00FFD2&currStreakNum=00FFD2&sideNums=00FFD2&currStreakLabel=00FFD2&sideLabels=00FFD2&dates=00FFD2)
-  
-  ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&bg_color=000000&text_color=00FFD2&title_color=00FFD2&hide_border=true)
-</div>
-
 ## 📫 Contato
 
 <div align="center">
@@ -101,5 +99,5 @@ me = Developer()
 <div align="center">
   
   ---
-  ⭐ Feito com 💚 por João Silva ⭐
+  
 </div>

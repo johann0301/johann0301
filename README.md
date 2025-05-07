@@ -1,3 +1,10 @@
+<body style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); color: white; padding: 30px; border-radius: 20px;">
+
+<!-- Banner de Fundo
+<p align="center">
+  <img src="https://i.imgur.com/94HRfGH.png" width="100%" style="border-radius: 12px;" />
+</p> -->
+ 
  <div align="center">
   <img 
     src="https://github.com/johann0301/johann0301/blob/main/foto-perfil-github.jpg?raw=true"
@@ -94,3 +101,5 @@ Olá! Sou Johann Bezerra, estudante de Ciência da Computação na UNIESP e futu
 </div>-->
 
 </div>
+
+</body>

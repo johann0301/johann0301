@@ -19,7 +19,7 @@
     <a href="https://www.linkedin.com/in/johann-bezerra">
       <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00A6ED" alt="LinkedIn"/>
     </a>
-    <a href="https://dev.to/jeniblo_dev">
+    <a href="https://gmail.com/johann.bezerra27@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00A6ED" alt="Dev.to"/>
     </a>
   </div>
@@ -75,11 +75,19 @@ Olá! Sou Johann Bezerra, estudante de Ciência da Computação na UNIESP e futu
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=johann0301&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=johann0301&layout=compact&langs_count=8&theme=react"/>
+ <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=johann0301&layout=compact&langs_count=8&theme=react"/> -->
+</div>
+
+<div align="center">
+ 
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+ 
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=johann0301&color=00A6ED&style=for-the-badge&label=VISITAS" alt="Profile Views"/>
+
+  
   
  <!--<div align="center">
   <img src="https://raw.githubusercontent.com/johann0301/johann0301/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />

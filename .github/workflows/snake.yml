@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   push:
     branches:
-      - main  # ou o nome da sua branch principal
+      - main
   pull_request:
     branches:
       - main
@@ -15,10 +15,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Debug Inputs
+        run: echo "github_user=${{ github.actor }}"
+
       - name: Generate Snake GIF
         uses: platane/snk@v2
         with:
-          github_user_name: johann0301  # Substitua pelo seu nome de usuário do GitHub
+          github_user: johann0301  # Ensure this is correct
           svg: true
 
       - name: Push SVG to output branch

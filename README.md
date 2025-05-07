@@ -19,9 +19,9 @@
     <a href="https://www.linkedin.com/in/johann-bezerra">
       <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00A6ED" alt="LinkedIn"/>
     </a>
-    <a href="https://gmail.com/johann.bezerra27@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00A6ED" alt="Dev.to"/>
-    </a>
+  <!--  <a href="https://gmail.com/johann.bezerra27@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00A6ED" alt="Dev.to"/>-->
+    </a> 
   </div>
 </div>
 

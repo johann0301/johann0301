@@ -34,7 +34,7 @@
 
 ## Sobre Mim
 
-Olá! Sou Johann Bezerra, estudante de Ciência da Computação na UNIESP e futuro desenvolvedor Full-Stack, com interesse especial em Inteligência Artificial e desenvolvimento de softwares. Tenho 18 anos, gosto de tecnologia, todo tipo de esportes e de estar sempre aprendendo algo novo. Meu foco está em construir soluções que façam sentido na prática e que me ajudem a crescer como profissional.
+Olá! Sou Johann Bezerra, estudante de Ciência da Computação na UNIESP em formação para trabalhar como desenvolvedor Full-Stack, com interesse especial em Inteligência Artificial e desenvolvimento de softwares. Tenho 18 anos, gosto de tecnologia, diversos esportes e de estar sempre aprendendo algo novo. Meu foco está em construir soluções que façam sentido na prática e que me ajudem a crescer como profissional.
 
 <!--### Experiência Profissional
 <div display="inline-block">
@@ -47,7 +47,7 @@ Olá! Sou Johann Bezerra, estudante de Ciência da Computação na UNIESP e futu
 
 ### Soft Skills
 <div display="inline-block">
- <p>🎯 Inglês: Certificado nível C1 pela universidade de Cambriedge </p>
+ <p>🎯 Inglês: Certificado nível C1 pela Universidade de Cambriedge </p>
  <p>🏆 Espanhol: Intermediário </p>
  <p>🌟 Trabalho em equipe</p>
  <p>📚 Resolução de problemas</p>

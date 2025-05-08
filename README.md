@@ -7,10 +7,10 @@
  
  <div align="center">
   <img 
-    src="https://github.com/johann0301/johann0301/blob/main/foto-perfil-github.jpg?raw=true"
+    src="https://github.com/johann0301/johann0301/blob/main/novo-perfil-github.jpg"
     alt="Foto de Perfil" 
     width="200" 
-    height="250" 
+    height="200" 
     style="border-radius: 50%; object-fit: cover; object-position: center; border: 2px solid #00A6ED; margin: 20px 0;" 
   /> 
 
